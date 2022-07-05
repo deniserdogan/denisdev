@@ -4,12 +4,12 @@ import {
   Heading,
   Container,
   Stack,
-  Image,
   Text,
   Link,
   Icon,
   useColorModeValue,
   Badge,
+  Img,
 } from '@chakra-ui/react'
 import { FiGithub, FiLinkedin } from 'react-icons/fi'
 import {
@@ -37,7 +37,10 @@ export default function Header() {
             direction={'column'}
           >
             <Box w={'36'} marginX="auto">
-              <Image borderRadius="full" src="avatar.png" />
+              <Img
+                borderRadius="full"
+                src="https://i.ibb.co/ZJTFPGk/avatar.png"
+              />
             </Box>
             <Box
               display="flex"
