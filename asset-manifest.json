@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/denisdev/static/css/main.7e275c6a.css",
+    "main.js": "/github.io/denisdev/static/js/main.cdd830c2.js",
+    "index.html": "/github.io/denisdev/index.html",
+    "main.7e275c6a.css.map": "/github.io/denisdev/static/css/main.7e275c6a.css.map",
+    "main.cdd830c2.js.map": "/github.io/denisdev/static/js/main.cdd830c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e275c6a.css",
+    "static/js/main.cdd830c2.js"
+  ]
+}
