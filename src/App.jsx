@@ -7,17 +7,17 @@ import theme from './theme'
 const App = () => {
   const stars = () => {
     const row = []
-    for (var i = 0; i < 20; i++) {
-      row.push(<li></li>)
+    for (let i = 0; i < 20; i++) {
+      row.push(<li />)
     }
     return row
   }
 
   return (
     <ChakraProvider theme={theme}>
-      <div className="context">
-        <div className="area">
-          <ul className="circles">{stars()}</ul>
+      <div className='context'>
+        <div className='area'>
+          <ul className='circles'>{stars()}</ul>
         </div>
       </div>
       <Nav />
