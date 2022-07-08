@@ -1,6 +1,6 @@
 # Personal Website
 
-My portfolio website created with **React.js**. 
+My portfolio website created with **React.js** and  **Chakra UI**. 
 
 ### Stack:
  - React
