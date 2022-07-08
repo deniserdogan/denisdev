@@ -15,9 +15,9 @@ const App = () => {
 
   return (
     <ChakraProvider theme={theme}>
-      <div className='context'>
-        <div className='area'>
-          <ul className='circles'>{stars()}</ul>
+      <div className="context">
+        <div className="area">
+          <ul className="circles">{stars()}</ul>
         </div>
       </div>
       <Nav />
