@@ -1,10 +1,11 @@
 # Personal Website
 
-My portfolio website created with **React.js** and  **Chakra UI**. 
+My portfolio website created with **React.js** and **Chakra UI**.
 
 ### Stack:
- - React
- - Chakra UI
+
+- React
+- Chakra UI
 
 ![screenshot](https://gcdnb.pbrd.co/images/ds2AkR9umrnK.png?o=1)
 
